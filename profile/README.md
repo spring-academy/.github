@@ -36,6 +36,7 @@ This repository defines the tags, instructors, and learning paths for Spring Aca
 They are organized by author-curated repos:
 
 - Spring Guides (Upgrade, Modulith): [spring-guides](https://github.com/spring-academy/spring-guides)
+- Spring Enterprise Guides (Spring Enterprise): [spring-guides](https://github.com/spring-academy/spring-enterprise-guides)
 - Spring Engineering Guides (Spring Engineering Focused): [spring-engineering-guides](https://github.com/spring-academy/spring-engineering-guides)
 - Spring IO Guides (early effort to give labs experience to Spring IO guides, deprecated): [spring-io-guides](https://github.com/spring-academy/spring-io-guides)
 - Tanzu Developer Center Spring Guides (deprecated): [spring-tdc-guides](https://github.com/spring-academy/spring-tdc-guides)
